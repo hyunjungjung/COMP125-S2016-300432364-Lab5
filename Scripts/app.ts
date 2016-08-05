@@ -1,13 +1,13 @@
 /// <reference path="objects/label.ts"/>
 
 /**
- * FileName: app.js
- * 
- * @author Tom Tsiliopoulos
- * @date August 3, 2016
- * 
- * StudentID: 300818557
- * 
+ * FileName: app.ts
+ *
+ * @author Joanne Jung
+ * @date August 5, 2016
+ *
+ * StudentID: 300432364
+ *
  * @description This file is the main javascript file for the web site
  */
 
